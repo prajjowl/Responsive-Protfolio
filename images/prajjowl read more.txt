@@ -1,0 +1,18 @@
+KEY STRENGTHS
+• Demonstrated ability to analyze, design, and develop client/server-side web-based 
+applications using Object-Oriented Programming.
+• Able to develop 
+• Hands-on experience in developing reports for a variety of System using Python
+• Track record of writing stored procedures and packages.
+•In-depth of Python Using different library package
+
+
+INDUSTRY ORIENTED MINI-PROJECT
+Project Title: AI VOICE Assistance, DRS, Train platform Anouncement, OOP Project, ,small 
+Gaming system For Fun with Friends,TO DO LIST USING Javascript ,BOOTSTRAP,Flappy 
+Bird,R castphone Project,PythonData analysis of Vechiles,car Transport ML project
+Language Used: Python
+• Lead a team of 5 members
+• Performed coding and testing
+• Implemented security requirements
+
